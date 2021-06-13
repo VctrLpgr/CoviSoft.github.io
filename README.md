@@ -1,4 +1,4 @@
 # VctrLpz.github.io
 Ejemplo de Sitio Web
 
-https://CoviSoft.github.io
+https://vctrlpgr.github.io/CoviSoft.github.io/
